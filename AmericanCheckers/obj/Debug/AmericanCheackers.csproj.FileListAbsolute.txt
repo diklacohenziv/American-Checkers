@@ -1,0 +1,10 @@
+C:\GitHub Projects\AmericanCheckers\AmericanCheackers\obj\Debug\AmericanCheackers.csproj.AssemblyReference.cache
+C:\GitHub Projects\AmericanCheckers\AmericanCheackers\obj\Debug\AmericanCheackers.csproj.SuggestedBindingRedirects.cache
+C:\GitHub Projects\AmericanCheckers\AmericanCheackers\obj\Debug\AmericanCheackers.csproj.CoreCompileInputs.cache
+C:\GitHub Projects\AmericanCheckers\AmericanCheackers\bin\Debug\AmericanCheackers.exe.config
+C:\GitHub Projects\AmericanCheckers\AmericanCheackers\bin\Debug\AmericanCheackers.exe
+C:\GitHub Projects\AmericanCheckers\AmericanCheackers\bin\Debug\AmericanCheackers.pdb
+C:\GitHub Projects\AmericanCheckers\AmericanCheackers\bin\Debug\Ex02.ConsoleUtils.dll
+C:\GitHub Projects\AmericanCheckers\AmericanCheackers\obj\Debug\AmericanCheackers.csproj.CopyComplete
+C:\GitHub Projects\AmericanCheckers\AmericanCheackers\obj\Debug\AmericanCheackers.exe
+C:\GitHub Projects\AmericanCheckers\AmericanCheackers\obj\Debug\AmericanCheackers.pdb

@@ -16,7 +16,7 @@ The flow:
 6. If the move is 'illegal', the user will be prompted to enter a valid move.
 7. After a valid move was entered by the user, the screen will be cleared and the
    board will be re-drawn with the new state.
-8. The O's kings are marked with 'Q'. The X's kings are marked with Z.
+8. The O's kings are marked with 'Q'. The X's kings are marked with 'Z'.
 9. In case of a 'jump' over an opposing coin ("Eating" / "Capturing"), the
    opposing man is eliminated.
 10. The user may decide to quit by entering 'Q' instead of a valid move.
